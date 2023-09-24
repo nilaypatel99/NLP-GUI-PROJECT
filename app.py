@@ -42,9 +42,6 @@ class NLPApp:
         redirect_btn.pack(pady=(10,10))
         
         
-        
-
-
 nlp=NLPApp()
 
 
