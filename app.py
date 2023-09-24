@@ -185,8 +185,14 @@ class NLPApp:
 
         text=self.text.get()    #to get the text inputed from user
         result=self.apio.sentiment_analysis(text)   #we're providing text to sentiment_analysis function of myapi class
-
         
+        txt=''
+        for i in result['sentiment']:
+            txt=txt+i+' --> '+str(result['sentiment'][i]) + '\n'
+        print(txt)
+        self.sentiment_result['text']=txt
+            
+
 
 
 
