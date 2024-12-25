@@ -1,4 +1,4 @@
-# oop-project
+# NLP-GUI project
 Developed Python-based GUI application for Natural Language Processing (NLP) tasks, using object-oriented programming (OOP) principles and Tkinter for the interface. The project also integrates NLP models and utilizes external APIs for tasks like Named Entity Recognition (NER), Emotion Detection, and Sentiment Analysis.
 
 Here's a summary of the project description, breaking it down into the key components:
@@ -24,6 +24,8 @@ Project Overview:
    - Named Entity Recognition (NER): The system identifies and classifies entities such as names, dates, organizations, and more from the input text.
    - Emotion Detection: The system analyzes the text and detects the emotional tone or sentiment behind it (e.g., joy, anger, sadness).
    - Sentiment Analysis: The system determines whether the input text has a positive, negative, or neutral sentiment.
+   - ![image](https://github.com/user-attachments/assets/044d2732-20c9-42e5-b903-f109ce5d10e3)
+
 
 3. OOP Structure:
    - Utilizes Object-Oriented Programming principles (e.g., classes, inheritance, polymorphism) to organize and structure the code, making it modular and maintainable.
@@ -38,6 +40,7 @@ Project Overview:
 3. Results Displayed:
    - The Named Entities are shown in a list or on the interface.
    - The detected emotion or sentiment is displayed as part of the analysis results.
+![image](https://github.com/user-attachments/assets/842a567a-13f8-493a-8fa4-f9051f2a1940)
 
 ### Benefits of the Project:
 - The use of Tkinter ensures that the application is accessible to users who may not be familiar with coding or command-line interfaces.
