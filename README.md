@@ -17,6 +17,8 @@ Project Overview:
 1. Graphical User Interface (GUI):
    - Built using Tkinter, the GUI allows users to interact with the NLP tasks.
    - Provides a user-friendly interface for inputting text and displaying results of various NLP analyses.
+     ![{F2BA5EA4-B1AE-4733-A30B-30D49BE41EC2}](https://github.com/user-attachments/assets/e4a6c947-857e-4138-9232-16cfa540d15c)
+
 
 2. NLP Tasks:
    - Named Entity Recognition (NER): The system identifies and classifies entities such as names, dates, organizations, and more from the input text.
