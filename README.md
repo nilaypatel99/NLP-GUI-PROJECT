@@ -40,7 +40,6 @@ Project Overview:
 3. Results Displayed:
    - The Named Entities are shown in a list or on the interface.
    - The detected emotion or sentiment is displayed as part of the analysis results.
-![image](https://github.com/user-attachments/assets/356be5e0-4bee-40d2-b229-167449a00024)
 
 
 ### Benefits of the Project:
