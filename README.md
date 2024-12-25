@@ -40,7 +40,8 @@ Project Overview:
 3. Results Displayed:
    - The Named Entities are shown in a list or on the interface.
    - The detected emotion or sentiment is displayed as part of the analysis results.
-![image](https://github.com/user-attachments/assets/842a567a-13f8-493a-8fa4-f9051f2a1940)
+![image](https://github.com/user-attachments/assets/356be5e0-4bee-40d2-b229-167449a00024)
+
 
 ### Benefits of the Project:
 - The use of Tkinter ensures that the application is accessible to users who may not be familiar with coding or command-line interfaces.
